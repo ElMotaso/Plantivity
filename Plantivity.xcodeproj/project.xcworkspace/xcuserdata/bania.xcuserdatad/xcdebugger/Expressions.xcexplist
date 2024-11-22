@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PlantsData.getTierOfProject(project:):PlantsData.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "project.lastTierUpdate">
+            </PersistentString>
+            <PersistentString
+               value = "Date()">
+            </PersistentString>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HallOfFameView.loadLayout():HallOfFameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "achievementsData.projectImages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
